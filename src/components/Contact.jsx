@@ -72,7 +72,7 @@ const Contact = () => {
                                 className="icon"
                                 aria-label="LinkedIn Profile"
                             >
-                                <img src={linkedin} alt="LinkedIn icon" width={40} />
+                                <img src={linkedin}  alt="LinkedIn icon" width={40} />
                             </a>
                         </ul>
                     </div>

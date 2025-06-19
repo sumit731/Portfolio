@@ -606,6 +606,7 @@ body {
   .icon {
     width: 50px; /* Slightly smaller icons */
     height: 50px;
+    background: cover;
   }
 
   .contact-item-title {
@@ -639,6 +640,7 @@ body {
     width: 40px; /* Smaller icons for mobile */
     height: 40px;
     padding: 5px;
+    background: cover;
   }
 
   .contact-item-title {
